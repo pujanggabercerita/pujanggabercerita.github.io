@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'pujanggabercerita.github.io'
-baseurl: '/jekyll-uno'
+url: 'https://pujanggabercerita.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
